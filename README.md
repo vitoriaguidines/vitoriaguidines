@@ -9,17 +9,15 @@ anordinaryusername@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377
+Pronouns: She/Her
+Location: Niterói, RJ
+Frameworks: Bootstrap
+Languages: Python, Java,
+           HTML, CSS, C
+Learning: Javascript, MySQL
+Hobbies: Drawing, Reading mangá, Gaming
+Commits: Working on it
+Discord: shori#2744
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
