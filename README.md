@@ -5,7 +5,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/78456655/234692970-f03e10f7-b8ba-4709-9f4e-7ffe27d8d6c5.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+vitoriaguidines@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
