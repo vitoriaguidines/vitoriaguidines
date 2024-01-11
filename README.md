@@ -2,7 +2,9 @@
 I am a Computer Science student looking for opportunities and collabaration in projects related to web and cloud developing.
 - 🔭 I’m currently working on React projects and learing cloud computing.
 - 🌱 I’m currently learning Node.js structure too.
-- 🤝 I’m looking to collaborate on Front-End developing projects and learning Back-End structures. 
+- 🤝 I’m looking to collaborate on Front-End developing projects and learning Back-End structures.
+
+***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaguidines\&show_icons=true\&theme=radical)
 
