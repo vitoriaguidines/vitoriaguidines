@@ -1,5 +1,4 @@
 ```zsh
-> neofetch
 ### Welcome to my page github 👋 
 
 **> Aqui você irá encontrar de tudo um pouco :)** 
