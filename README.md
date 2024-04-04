@@ -15,5 +15,3 @@ I am a Computer Science student looking for opportunities and collabaration in p
 <br/>
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vitória-guidine/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/badideame/)
-
-![Snake animation](https://github.com/vitoriaguidines/vitoriaguidines/blob/output/github-contribution-grid-snake.svg)
