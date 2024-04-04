@@ -9,7 +9,7 @@ I am a Computer Science student looking for opportunities and collabaration in p
 <div align="center">
   <a href="https://github.com/vitoriaguidines">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaguidines\&show_icons=true\&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaguidines\&layout=compact\&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaguidines&layout=compact\&theme=radical"/>
 </div>
  
 <br/>
