@@ -1,8 +1,8 @@
 ### Hi, I'm Vitória Guidine 👋
-I am a Computer Science student looking for opportunities and collabaration in projects related to web and cloud developing.
-- 🔭 I’m currently working on React projects and learing cloud computing.
-- 🌱 I’m currently learning Node.js structure too.
-- 🤝 I’m looking to collaborate on Front-End developing projects and learning Back-End structures.
+I am a Computer Science student learning Ethical Hacking and Cloud concepts.
+- 🔭 I’m currently working as a Red Team member at Grupo Globo.
+- 🌱 I’m currently learning Cloud Computing concepts.
+- 🤝 I like to work with React JS and Native projects too.
 
 ***
 
