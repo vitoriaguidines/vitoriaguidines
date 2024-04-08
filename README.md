@@ -12,7 +12,7 @@ I am a Computer Science student learning Ethical Hacking and Cloud concepts.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaguidines&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,django,react,html,css,javascript,typescript,flutter,postgres,py,dotnet,jquery)](https://skillicons.dev)
 
  
 <br/>
