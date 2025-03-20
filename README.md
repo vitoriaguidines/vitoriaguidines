@@ -14,11 +14,15 @@ I am a Computer Science student learning Ethical Hacking and Cloud concepts.
 
 ***
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,django,react,html,css,javascript,typescript,flutter,postgres,py,dotnet,jquery)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,react,javascript,typescript,docker,postgres,py,bootstrap,jquery" />
+  </a>
+</p>
 
 <br/>
 
-<div>
+<div align="center">
 <a href="mailto:vitoriaguidine@id.uff.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&emsp;
 <a href="https://www.instagram.com/badideame/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&emsp;
 <a href="https://www.linkedin.com/in/vitória-guidine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&emsp;
