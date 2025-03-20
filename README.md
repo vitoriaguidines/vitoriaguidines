@@ -1,8 +1,12 @@
 ### Hi, I'm Vitória Guidine 👋
-I am a Computer Science student learning Ethical Hacking and Cloud concepts.
-- 🔭 I’m currently working as a Red Team member at Grupo Globo.
-- 🌱 I’m currently learning Cloud Computing concepts.
-- 🤝 I like to work with React JS and Native projects too.
+<img align="right" height="200" src="https://fc09.deviantart.net/fs70/f/2014/170/3/0/_f2u_persona____00__fool_by_shittychan-d7jr6zd.gif" />
+
+I am a Computer Science student learning Ethical Hacking and Cloud concepts.  
+- 🔭 I’m currently working as a Red Team member at Grupo Globo.  
+- 🌱 I’m currently learning Cloud Computing concepts.  
+- 🤝 I like to work with React JS and Native projects too.  
+
+
 
 ***
 
@@ -16,7 +20,6 @@ I am a Computer Science student learning Ethical Hacking and Cloud concepts.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,django,react,html,css,javascript,typescript,flutter,postgres,py,dotnet,jquery)](https://skillicons.dev)
 
- 
 <br/>
 
 <div>
