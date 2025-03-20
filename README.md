@@ -16,7 +16,7 @@ I am a Computer Science student learning Ethical Hacking and Cloud concepts.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,react,javascript,typescript,docker,postgres,py,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,figma,react,javascript,py,go,bootstrap,jquery,azure,gcp,git,docker,postgres,firebase" />
   </a>
 </p>
 
