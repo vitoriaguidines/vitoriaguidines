@@ -1,6 +1,6 @@
 ### Hi, I'm Vitória Guidine 👋
 I am a Computer Science student learning Ethical Hacking and Cloud concepts.  
-- 🔭 I’m currently working as a Red Team member at [@Globo](https://www.linkedin.com/company/globo).  
+- 🔭 I’m currently working as a DevSecOps member at [@Globo](https://www.linkedin.com/company/globo).  
 - 🌱 I’m currently learning Cloud Computing concepts.  
 - 🤝 I like to work with React JS and Native projects too.  
 
