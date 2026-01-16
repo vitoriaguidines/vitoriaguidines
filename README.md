@@ -1,4 +1,4 @@
-### Hi, I'm Vitória Guidine 👋
+## Hi, I'm Vitória Guidine 👋
 
 I am a **Computer Science student** at UFF (Federal Fluminense University) specializing in **DevSecOps** and **Ethical Hacking**. I combine a strong foundation in secure development with a passion for cloud infrastructure and automation.
 
@@ -18,9 +18,11 @@ Check out my latest projects and technical skills:
 ---
 
 ### 📊 GitHub Stats & Languages
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaguidines&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaguidines&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/vitoriaguidines">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaguidines&show_icons=true\&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaguidines&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
@@ -42,8 +44,8 @@ Check out my latest projects and technical skills:
 <a href="https://tryhackme.com/p/sh0ri"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </div>
 
-<br/>
+
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZzR3ZzR3ZzR3ZzR3ZzR3ZzR3ZzR3ZzR3ZzR3ZzR3ZzR3Jm0/3o7TKDkDbIDJp6" alt="Tech GIF" />
+  <img height="200" src="https://fc09.deviantart.net/fs70/f/2014/170/3/0/_f2u_persona____00__fool_by_shittychan-d7jr6zd.gif"  />
 </div>
